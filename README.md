@@ -2,6 +2,6 @@
 
 
 - Name: brumalStar
-- School: Guangdong University of Technology, Guangdong, Chin
+- School: Guangdong University of Technology, Guangdong, China
 
 
